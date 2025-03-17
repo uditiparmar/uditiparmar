@@ -58,9 +58,8 @@
 ### 📰 [News App](https://github.com/uditiparmar/news-app)  
 A beautifully designed news app built with Flutter, featuring category-based news, API integration, and responsive UI.  
 
-### 🔒 [Authentication App](https://github.com/uditiparmar/auth-app)  
-A secure authentication app using Firebase for Email/Password login and Google Sign-In.  
-
+### 🔒 [Furniture App](https://github.com/uditiparmar/furniture-app)  
+A sleek and modern Furniture App UI built with Flutter to showcase a clean and responsive user interface. 
 ---
 
 ## 🌍 Connect with Me  
