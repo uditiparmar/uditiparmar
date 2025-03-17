@@ -58,7 +58,7 @@
 ### 📰 [News App](https://github.com/uditiparmar/news-app)  
 A beautifully designed news app built with Flutter, featuring category-based news, API integration, and responsive UI.  
 
-### 🔒 [Furniture App](https://github.com/uditiparmar/furniture-app)  
+### 🔒 [Furniture App](https://github.com/uditiparmar/Furniture-UI) 
 A sleek and modern Furniture App UI built with Flutter to showcase a clean and responsive user interface. 
 ---
 
